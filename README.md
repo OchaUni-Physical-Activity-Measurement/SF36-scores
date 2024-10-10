@@ -1,7 +1,5 @@
 # How to obtain SF36-scores in different subdomains
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10086861.svg)](https://doi.org/10.5281/zenodo.10086861)
-
 Run the soft from terminal using ```python3 sf36.py [-d input_path] [-o output_path] [-ind]```  
 
 - `[-d]` optional, defines the path to your data. Default is [~/data/](https://github.com/MatthieuGG/SF36-scores/tree/main/data) in the same folder.  
@@ -19,5 +17,3 @@ See more information in the [documentation]() *(not yet edited)*. **WARNING: we 
 
 **To cite this work:**
 > Matthieu Gallou-Guyot. (2023). SF36-scores. Zenodo. https://doi.org/10.5281/zenodo.10060411 
-
-*(old version using a Jupyter Nootebook is still avaliable in [~/old/](https://github.com/MatthieuGG/SF36-scores/tree/main/old))*
